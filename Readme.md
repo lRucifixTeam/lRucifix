@@ -1,6 +1,4 @@
-# Info
-**About the Project:**
-- *A product developed by the lRucifix Team, which was first conceived back in May 2025. After that, there was a long hiatus, and it wasn’t until 2026 that we completely rewrote the project from scratch in just a couple of days; however, we decided to wait to ensure it was well-developed and of high quality.*
+~ *Our product is entirely a hobby project, created out of a sincere desire to learn and make something of our own. As stated in the FAQ, we do not intend to combat anti-cheats or anything similar, though studying them remains an important part of our development. At the moment, the product is completely free, with the exception of one feature, but we cannot guarantee that it will not become paid in future updates or when advanced features are added.*
 
 **Links:**
 - *https://discord.gg/3Vw23jxUtg*
