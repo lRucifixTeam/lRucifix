@@ -1,71 +1,105 @@
-# Player
-## Movement
-- Walk On Water
-- Bunny Hop
-- Max Move Slope
-- Eternal Fall
-- Fly
-- No-Clip
-- Avatar Euler
-- Fish
-## No cooldown
-- No Barrier Cooldown
-- Eternal Burst
-- No CD
-- Infinite Stamina
-- Infinite Stamina (aob)
-- No sprint CD
-## Damage
-- No Fall Damage
-- GodMode
-- No lava damage
-## Combat
-- Double attack
-- Multi-hit
-- Random elements
-- Custom element
-- Player damage (only trusted)
-# World
-## Misc
-- Free Camera
-- Huge Entity Name
-- Scoliosis
-## Environment
-- Change Time
-- Hide Grass
-- No world barrier
-- Time Speed
-- Change Weather
-- World Speed
-## Enemies
-- Kill Aura
-- Dumb Enemies
-- Multi-Animations
-- Stop Entity Movement
-# Visual
-## World
-- Crash World
-- Disable Fog
-## Damage
-- Hide Damage
-- Hide Reaction
-## Create objects
-## Player
-- Underwater Visual
-- Cinematic Run
-- Elemental Sight
-- Character Transparency
-- Fps Limiter
-- Change Fov
-- Send Message
-# Teleports
-## Manual Teleport
-- Manual input and change of coordinates
-## Save Location
-- Save your current one for further teleportation at will with the option to select the saved one
-## Quick Teleport
-- Manually change coordinates by pressing a button without entering any data
-## Json Teleport
-- Download teleport pack
-- Select your .json to load coordinates from there
-- Automatic teleportation
+# Features
+## lRauncher Version - 0xLR006502
+
+### Player Menu Features
+> **No Cooldown**
+> No Barrier Cooldown
+> Eternal Burst
+> No Cooldown
+> Infinite Stamina
+> Alternative Infinite Stamina
+> No Sprint Cd
+> Instant Bow Charge
+> 
+> **God Mode**
+> No Fall Damage
+> Invincibility
+> No lava damage
+> Anti-Kick
+> 
+> **Combat**
+> Double Attack
+> Multi Hit
+> Player Damage
+> 
+> **Movement**
+> No-Clip
+> Walk On Water
+> Max Move Slope
+> Eternal Fall
+> Avatar Euler
+> Fish
+> Player Speed
+> 
+> **Loot**
+> Loot Range
+
+### World Menu Features
+> **Environment**
+> Change Time
+> Hide Grass
+> Half shadows
+> No Area Restriction
+> Vegetation
+> Change Weather
+> Stop enviroment change
+> World Speed
+> 
+> **Enemies**
+> Void Aura
+> Dumb Enemies
+> Freeze Enemies
+> Vacuum Monster
+> Multi Animations
+> Bone Changer
+> 
+> **Misc**
+> Scoliosis
+> Skip Cutscene
+> Vacuum Loot
+> Music
+
+### Objects Menu Features
+> Objects
+> Gadget Spawn
+> Create Avatar
+> Monster Spawn
+> NPC Spawn
+
+### Visual Menu Features
+> **World**
+> Crash World
+> Disable Fog
+> View Distance Ratio
+> PIZDEEEC
+> Screen effect
+> Gamma
+> FSR
+> Resolution Scale
+> 
+> **Damage**
+> Hide Damage
+> Hide Reaction
+> 
+> **Player**
+> Underwater Visual
+> Cinematic Run
+> Character Transparency
+> Booba Scale
+> 
+> **Changer**
+> Custom UID
+> Custom Profile
+> 
+> **Other**
+> Send Message
+
+### Teleports Menu Features
+> Manual Teleport
+> JSON Teleports
+> Oculi Teleport
+> Chest Teleport
+> Save Location
+> Quick Teleport
+> Player Teleport
+> Quest Teleport
